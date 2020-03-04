@@ -1,0 +1,9 @@
+.custom-button{
+    height:50px;
+    width:150px;
+    background-color:rgba(234,132,54,0.8);
+    box-shadow: 0;
+    border: 3px solid red;
+    border-radius: 3px;
+
+}
